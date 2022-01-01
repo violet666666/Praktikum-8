@@ -1,0 +1,91 @@
+{
+    "menu": [{
+            "jenis": "Makanan",
+            "nama": "Nasi Goreng Merah",
+            "deskripsi": "Nasi goreng merah dengan saus tomat",
+            "harga": 15000,
+            "gambar": "nasgormerah.jpg",
+            "estimasi": "15 Minute"
+        },
+        {
+            "jenis": "Makanan",
+            "nama": "Nasi Goreng Kecap",
+            "deskripsi": "Nasi goreng dengan kecap dengan tambahan potongan sosis",
+            "harga": 15000,
+            "gambar": "nasgorkecap.jpg",
+            "estimasi": "15 Minute"
+        },
+        {
+            "jenis": "Makanan",
+            "nama": "Konro khas Makassar",
+            "deskripsi": "konro adalah masakan berkuah dengan bahan dasar tulang iga berbalut daging dan berbumbu rempah-rempah",
+            "harga": 25000,
+            "gambar": "konro.jpg",
+            "estimasi": "20 Minute"
+        },
+        {
+            "jenis": "Makanan",
+            "nama": "Coto Makassar",
+            "deskripsi": "Makanan khas Makassar, Makanan ini terbuat dari jeroan sapi yang direbus dalam waktu yang lama",
+            "harga": 15000,
+            "gambar": "coto.jpg",
+            "estimasi": "10 Minute"
+        },
+        {
+            "jenis": "Makanan",
+            "nama": "Nasi Goreng Kambing",
+            "deskripsi": "Nasi goreng kambing ini dibuat dengan bumbu dan daging kambing pilihan",
+            "harga": 40000,
+            "gambar": "nasgorkambing.jpg",
+            "estimasi": "20 Minute"
+        },
+        {
+            "jenis": "Minuman",
+            "nama": "Es Teh",
+            "deskripsi": "Es Teh manis ",
+            "harga": 10000,
+            "gambar": "esteh.jfif",
+            "estimasi": "10 Minute"
+        },
+        {
+            "jenis": "Minuman",
+            "nama": "Es Kopi Susu",
+            "deskripsi": "Es kopi susu ala ala cafe",
+            "harga": 15000,
+            "gambar": "eskopi.jfif",
+            "estimasi": "10 Minute"
+        },
+        {
+            "jenis": "Minuman",
+            "nama": "Jus Jeruk",
+            "deskripsi": "Jus jeruk dingin yang dapat melepas dahaga dan sangat menyegarkan",
+            "harga": 15000,
+            "gambar": "jusjeruk.jpg",
+            "estimasi": "5 Minute"
+        },
+        {
+            "jenis": "Dessert",
+            "nama": "Dessert Oreo",
+            "deskripsi": "Dessert Box dengan bahan utama Oreo",
+            "harga": 20000,
+            "gambar": "oreo.jpg",
+            "estimasi": "5 Minute"
+        },
+        {
+            "jenis": "Dessert",
+            "nama": "Dessert Regal",
+            "deskripsi": "Dessert Box dengan bahan utama Regal",
+            "harga": 20000,
+            "gambar": "regal.jfif",
+            "estimasi": "5 Minute"
+        },
+        {
+            "jenis": "Dessert",
+            "nama": "Dessert Regal Tiramisu",
+            "deskripsi": "Dessert Box dengan bahan utama Regal dan Tiramisu",
+            "harga": 20000,
+            "gambar": "tiramisu.jfif",
+            "estimasi": "5 Minute"
+        }
+    ]
+}
